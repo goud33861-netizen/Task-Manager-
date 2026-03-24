@@ -1,4 +1,4 @@
-# Random Password Generator
+ # Random Password Generator
 
 ## 📌 Project Description
 This is a simple web application that generates random passwords based on user input.
